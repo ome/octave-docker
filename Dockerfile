@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:18.04
 MAINTAINER ome-devel@lists.openmicroscopy.org.uk
 
 ENV DEBIAN_FRONTEND noninteractive
