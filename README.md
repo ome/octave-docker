@@ -1,5 +1,7 @@
 # Octave
 
+[![Actions Status](https://github.com/ome/octave-docker/workflows/sphinx/badge.svg)](https://github.com/ome/octave-docker/actions)
+
 Lightweight development environment for testing Octave scripts.
 
 ## Usage
